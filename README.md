@@ -3,6 +3,7 @@
 ![Badge finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-cyan)
 
 Challenge realizado en el programa ONE de alura latam. En este se pueden agregar amigos y sortear para obtener uno aleatorio.
+![Screenshot](https://github.com/user-attachments/assets/e0a5710e-8a5f-44ee-8cbb-b1bce41d9fa9)
 
 ## :hammer:Funcionalidades del proyecto
 
